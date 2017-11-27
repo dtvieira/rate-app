@@ -79,3 +79,5 @@ public class RateDialogFeedbackFrag extends RateDialogFrag {
         dismiss();
     }
 }
+
+// teste 4
